@@ -3,7 +3,7 @@
 ## Jens Rottiers - New Media Development
 
 ## Assignment
-Create an app or program that possibly can be used on the open house day of my college.
+Create an app or program that can possibly be used on the open house day of my college.
 
 ## What I did
 I created an app that tracks the amount of faces and eyes people look at a camera they pass by.  

@@ -15,7 +15,7 @@ For a more detailed description about the app see the about page in the client.
 ### What do you need?
 * A [Raspberry Pi](https://www.kiwi-electronics.nl/raspberry-pi-3-model-b-plus-basic-pack-red-white?search=raspberry%20pi&description=true) 
 * A [Raspberry Pi Camera](https://www.kiwi-electronics.nl/raspberry-pi-camera-en-accessoires/raspberry-pi-camera-board-v2-8mp)
-* A [Full kit - Pan-Tilt HAT](https://www.kiwi-electronics.nl/raspberry-pi-camera-en-accessoires/raspberry-pi-camera-board-v2-8mp) (optional)
+* A [Full kit - Pan-Tilt HAT](https://shop.pimoroni.com/products/pan-tilt-hat) (optional)
 * My repo with all the code
 
 ### Start the React client

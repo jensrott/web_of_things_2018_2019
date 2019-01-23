@@ -26,8 +26,8 @@ Run **npm install** to install the dependencies
 Run **npm run start** to start the front-end
 
 #### Start the Python script
-In order to make Python communicate with Firestore you need to generate a **serviceAccountKey**.  
+In order to make Python communicate with Firestore you need to generate a **serviceAccountKey**  
 You can do this by going to this [link](https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk)  
-Add your credentials to **pi/keys/serviceAccountKey-example.json** and rename it to **serviceAccountKey.json**.  
-Run **python3 raspberry_tracking_detection.py** to start the tracking and detection script.  
+Add your credentials to **pi/keys/serviceAccountKey-example.json** and rename it to **serviceAccountKey.json**  
+Run **python3 raspberry_tracking_detection.py** to start the tracking and detection script  
 If you want to first generate some fake data run **python3 firestore_create_dummy_data.py**

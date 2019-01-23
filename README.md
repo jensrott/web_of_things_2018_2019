@@ -2,10 +2,10 @@
 
 ## Jens Rottiers - New Media Development
 
-## Assignment: ##
+## Assignment
 Create an app or program that possibly can be used on the open house day of my college.
 
-## What I did ##
+## What I did
 I created an app that tracks the amount of faces and eyes people look at a camera they pass by.  
 The data can be viewed and ordered in a table. That way you can see how many people passed that location per day.  
 For a more detailed description about the app see the about page in the client.
